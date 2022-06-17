@@ -17,7 +17,7 @@
         <slf4j.version>1.7.28</slf4j.version>
         <commons-lang3.version>3.9</commons-lang3.version>
         <commons-collections4.version>4.4</commons-collections4.version>
-        <fastjson.version>1.2.58</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
         <opencsv.version>4.6</opencsv.version>
 
 <!--        <nd4j.backend>nd4j-cuda-9.2-platform</nd4j.backend>-->
